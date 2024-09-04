@@ -101,7 +101,7 @@ main{
     width: 400px;
     font-size: 48px;
     display: flex;
-    justify-content: end;
+    justify-content: center;
     align-items: center;
     color:#6a1aec;
 }
